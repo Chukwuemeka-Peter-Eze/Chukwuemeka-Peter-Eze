@@ -86,6 +86,7 @@ My Cloud and DevOps Practice Repository showcases hands-on labs, scripts, and pr
 * LinkedIn: https://www.linkedin.com/in/chukwuemekapetereze/
 * GitHub: https://github.com/Chukwuemeka-Peter-Eze
 * Email: Eze.Chukwuemeka.Peter1@gmail.com
+* Portfolio: Chukwuemekapetereze.online
 
 **Final Note**
 This repository is more than just practice, it represents my journey from beginner to Cloud and DevOps Engineer. Every folder, script, and project here is a step toward mastering the principles of automation, scalability, and reliability that power modern infrastructure.
