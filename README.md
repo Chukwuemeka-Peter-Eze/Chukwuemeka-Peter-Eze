@@ -69,6 +69,7 @@ My Cloud and DevOps Practice Repository showcases hands-on labs, scripts, and pr
 * Infrastructure testing (unit and integration), GitOps practices, documentation, writing clear READMEs and `notes.md` files
 
 **Highlighted Mini-Projects**
+* Notion Documentation: https://www.notion.so/Cloud-and-DevOps-Documentation-22a46a96f97480848acde5bed6454999?source=copy_link
 * Terraform AWS VPC Setup
 * Dockerized Python App with CI/CD
 * Kubernetes Deployment with Ingress
