@@ -83,7 +83,7 @@ My Cloud and DevOps Practice Repository showcases hands-on labs, scripts, and pr
 
 **Connect with Me**
 * LinkedIn: https://www.linkedin.com/in/chukwuemekapetereze/
-* GitHub: Chukwuemeka-Peter-Eze
+* GitHub: [Chukwuemeka-Peter-Eze(https://github.com/Chukwuemeka-Peter-Eze)
 * Email: Eze.Chukwuemeka.Peter1@gmail.com
 
 **Final Note**
