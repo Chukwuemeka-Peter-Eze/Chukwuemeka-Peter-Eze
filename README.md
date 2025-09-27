@@ -58,4 +58,4 @@ I’m passionate about **continuous learning, DevOps culture, and delivering rel
 * Portfolio Website: https://chukwuemekapetereze.online/
 * GitHub: https://github.com/Chukwuemeka-Peter-Eze
 * Email: Eze.Chukwuemeka.Peter1@gmail.com
-* My-Cloud-and-DevOps-Practice-Repository: https://github.com/Chukwuemeka-Peter-Eze/My-Cloud-and-DevOps-Practice-Repository.git
+* My-Practice-Repository: https://github.com/Chukwuemeka-Peter-Eze/My-Cloud-and-DevOps-Practice-Repository.git
