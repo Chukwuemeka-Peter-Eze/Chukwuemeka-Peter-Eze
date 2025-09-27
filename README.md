@@ -58,7 +58,7 @@ I’m passionate about **continuous learning, DevOps culture, and delivering rel
 * Portfolio Website: https://chukwuemekapetereze.online/
 * GitHub: https://github.com/Chukwuemeka-Peter-Eze
 * Email: Eze.Chukwuemeka.Peter1@gmail.com
-* Check out My-Cloud-and-DevOps-Practice-Repository: https://github.com/Chukwuemeka-Peter-Eze/My-Cloud-and-DevOps-Practice-Repository.git
+* My-Cloud-and-DevOps-Practice-Repository: https://github.com/Chukwuemeka-Peter-Eze/My-Cloud-and-DevOps-Practice-Repository.git
 
 My Cloud and DevOps Practice Repository showcases hands-on labs, scripts, and projects across Linux, Python, AWS, Terraform, Docker, Kubernetes, CI/CD, Monitoring, and Security. It serves as a structured space to document learning, apply concepts, and build strong, industry-ready Cloud and DevOps skills.
 
