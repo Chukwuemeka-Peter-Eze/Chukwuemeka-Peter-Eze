@@ -35,7 +35,7 @@ Building secure, scalable, and automated cloud-native platforms through Cloud En
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-Welcome to my GitHub profile.
+# Welcome to my GitHub profile.
 I’m a **Cloud Security and DevOps Engineer** focused on designing secure, scalable, and resilient AWS and Kubernetes platforms that enable organizations to deliver software faster, operate more reliably, and maintain strong security controls.
 
 My work sits at the intersection of Cloud Engineering, DevOps, Platform Engineering, and DevSecOps, where I design automated, security-first infrastructure for modern cloud-native applications and enterprise workloads.
