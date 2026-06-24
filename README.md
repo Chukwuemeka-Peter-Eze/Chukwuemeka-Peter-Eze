@@ -35,8 +35,8 @@ Building secure, scalable, and automated cloud-native platforms through Cloud En
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-# Welcome to my GitHub profile.
-I’m a **Cloud Security and DevOps Engineer** focused on designing secure, scalable, and resilient AWS and Kubernetes platforms that enable organizations to deliver software faster, operate more reliably, and maintain strong security controls.
+## Professional Summary
+I’m a **Cloud Security and DevOps Engineer** focused on designing secure, scalable, and resilient AWS and Kubernetes platforms that help organizations accelerate software delivery, strengthen security posture, and improve operational reliability.
 
 My work sits at the intersection of Cloud Engineering, DevOps, Platform Engineering, and DevSecOps, where I design automated, security-first infrastructure for modern cloud-native applications and enterprise workloads.
 
@@ -49,10 +49,12 @@ I am passionate about helping organizations modernize infrastructure through sec
 - DevSecOps
 - Platform Engineering
 - Infrastructure as Code (Terraform)
+
 - Kubernetes
 - AWS Cloud Infrastructure
 - Site Reliability Engineering (SRE)
-- Cloud Automation & Observability
+- Cloud Automation
+- Observability
 
 ## Technical Stack
 
@@ -74,17 +76,17 @@ I am passionate about helping organizations modernize infrastructure through sec
 
 ## Engineering Philosophy
 
-Build systems that are secure by design, automated by default, and resilient in production.
+Build systems that are secure by design, automated by default, observable by necessity, and resilient in production.
 I actively build cloud, DevOps, and security projects focused on infrastructure automation, cloud security, platform reliability, scalability, observability, and operational excellence.
 
 My goal is to build secure, scalable, and production-ready cloud platforms that combine automation, reliability, and security to support modern enterprise workloads.
 
 ## Featured Projects
 
-- AWS Secure Infrastructure
-- Terraform Infrastructure as Code Projects
-- Kubernetes Deployments
-- DevSecOps CI/CD Pipelines
+- AWS Multi-Tier Secure Infrastructure
+- Terraform Enterprise Infrastructure Platform
+- Kubernetes Application Deployment Platform
+- DevSecOps CI/CD Pipeline
 - Monitoring & Observability Stack
 - Cloud Security Labs
 
