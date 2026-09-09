@@ -480,8 +480,9 @@ to:
 
 **“I can design and operate a system using this tool.”**
 
----
+
 <!--
+---
 # 📊 GITHUB ACTIVITY
 
 <div align="center">
@@ -491,8 +492,8 @@ to:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwuemeka-Peter-Eze&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="175" />
 
 </div>
--->
 ---
+-->
 
 # 🔥 CONTRIBUTION STREAK
 
