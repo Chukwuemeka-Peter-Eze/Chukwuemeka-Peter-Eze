@@ -17,17 +17,30 @@
 
 </div>
 
+<div align="center">
+
+**[About](#about)** · **[Philosophy](#engineering-philosophy)** · **[Portfolio](#portfolio-snapshot)** · **[Projects](#selected-case-studies)** · **[Stack](#tech-stack)** · **[Certifications](#certifications)** · **[Vision](#where-im-headed)** · **[Connect](#connect)**
+
+</div>
+
 ---
 
 ## About
 
-I build hands-on, production-style cloud infrastructure projects, from provisioning through deployment, security, and observability, trained through **TechWorld with Nana's DevOps Bootcamp** and extended independently across my own repositories. My focus sits at the intersection of:
+I build production-style cloud infrastructure — provisioning, deployment, security, and observability — as complete, independently designed systems rather than isolated exercises. My focus sits at the intersection of:
 
 **Cloud Infrastructure → Infrastructure as Code → Containers → Kubernetes → CI/CD → Observability → DevSecOps**
 
-Each project below is a deliberate, self-built exercise in how infrastructure is provisioned, how code moves safely into production, how failures are detected and recovered from, and how access and secrets stay secure, the same fundamentals that scale into real operational environments.
+Every project in this profile was built to answer a specific question: not "can I use this tool," but "what does it take to run this safely, repeatably, and without me in the room." That's the standard I hold my own work to.
 
-> I don't just learn tools, I build systems with them, one project at a time.
+---
+
+## Engineering Philosophy
+
+- **Automation is a trust exercise.** If a deployment only works when I'm watching it, it isn't finished.
+- **Security is a design constraint, not a checklist item added at the end.**
+- **Infrastructure should be disposable.** If I can't destroy and rebuild an environment from code alone, it isn't really "as code" yet.
+- **Observability comes before scale.** I'd rather know a system is struggling than assume it isn't.
 
 ---
 
@@ -37,9 +50,9 @@ Each project below is a deliberate, self-built exercise in how infrastructure is
 |---|---|
 | Public repositories | 37 |
 | Flagship hands-on projects | 6 (Terraform, Kubernetes, Jenkins/AWS, Prometheus, Ansible, ECR) |
-| Training background | TechWorld with Nana - DevOps Bootcamp; Digital Witch Support Community - Cloud Security & DevOps Engineer |
+| Certifications | 2 — see [Certifications](#certifications) |
 | Core tools practiced | AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana |
-| Focus | Applying bootcamp fundamentals to independently designed, production-style builds |
+| Focus | Independently designed, production-style builds across the full DevOps toolchain |
 
 ---
 
@@ -82,7 +95,7 @@ Provisioned and version-controlled infrastructure end-to-end, replacing manual e
 📎 [View repository](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)
 
 **Kubernetes Microservices**
-Built and deployed a multi-service application on Kubernetes, services, ConfigMaps, Secrets, and StatefulSets with Helm-managed releases, modeled on production patterns.
+Built and deployed a multi-service application on Kubernetes — services, ConfigMaps, Secrets, and StatefulSets — with Helm-managed releases, modeled on production patterns.
 📎 [View repository](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)
 
 **AWS + Jenkins CI/CD Pipeline**
@@ -204,7 +217,7 @@ Additional certifications in progress — uncomment and update once earned:
 
 ## Security Mindset
 
-I approach infrastructure with a **security-by-design** philosophy. Security is engineered in from the start, not layered on afterward.
+I approach infrastructure with a **security-by-design** philosophy — security is engineered in from the start, not layered on afterward.
 
 ```mermaid
 flowchart LR
@@ -221,23 +234,17 @@ flowchart LR
 
 ---
 
-## Engineering Principles
-
-<div align="center">
-
-| 🔁 | 🏗️ | 🔐 | 📊 | 🧪 | 📝 | 💥 | ♻️ |
-|---|---|---|---|---|---|---|---|
-| Automate repetitive work | Infrastructure should be reproducible | Security should be designed in | If it matters, observe it | Test before production | Document decisions, not just commands | Learn from failure | Continuously improve systems |
-
-</div>
-
----
-
 ## Currently Building
 
 Moving from isolated tool demonstrations toward **larger, integrated, production-minded systems** that combine AWS, Terraform, Docker, Kubernetes, CI/CD, security, and observability into a single operating model.
 
 **The trajectory:** *"I know this tool"* → *"I can design and operate a system using this tool."*
+
+---
+
+## Where I'm Headed
+
+I'm building toward becoming the kind of engineer trusted with infrastructure that global-scale products depend on — where every deployment is boring, every failure is observed before it's felt, and security is invisible because it was never optional. Getting there means pairing what I've already built with real production stakes, real teams, and real consequences. That's the environment I'm looking for next.
 
 ---
 
@@ -262,17 +269,22 @@ Moving from isolated tool demonstrations toward **larger, integrated, production
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/chukwuemekapetereze/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+If you're building something worth being obsessive about the infrastructure for, I'd like to hear about it.
+
+<a href="mailto:Chukwuemekapetereze@proton.me">
+  <img src="https://img.shields.io/badge/Email-Chukwuemekapetereze%40proton.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
-<a href="https://github.com/Chukwuemeka-Peter-Eze">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/chukwuemekapetereze/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://chukwuemekapetereze.online/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-View%20Site-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/Chukwuemeka-Peter-Eze">
+  <img src="https://img.shields.io/badge/GitHub-All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-📧 **Chukwuemekapetereze@proton.me** &nbsp;|&nbsp; 📍 **Nigeria**
+📍 Nigeria - open to remote and relocation opportunities
 
 </div>
 
