@@ -5,15 +5,15 @@
 </a>
 
 <a href="https://github.com/Chukwuemeka-Peter-Eze">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Docker;Infrastructure+as+Code+%7C+CI%2FCD+%7C+DevSecOps;Designing+secure%2C+automated%2C+observable+systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Docker;Infrastructure+as+Code+%7C+CI%2FCD+%7C+DevSecOps;Designing+secure%2C+automated%2C+observable+systems" alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Chukwuemeka-Peter-Eze&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Chukwuemeka-Peter-Eze?label=FOLLOWERS&style=for-the-badge&color=0369a1" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChukwuemeka-Peter-Eze&label=Public%20Repositories&query=%24.public_repos&color=0284c7&style=for-the-badge" />
-<img src="https://img.shields.io/badge/OPEN%20TO-Platform%20Engineering%20%C2%B7%20SRE%20%C2%B7%20DevOps%20%C2%B7%20DevSecOps%20Roles-22c55e?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Chukwuemeka-Peter-Eze&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Chukwuemeka-Peter-Eze?label=FOLLOWERS&style=for-the-badge&color=0EA5E9" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChukwuemeka-Peter-Eze&label=Public%20Repositories&query=%24.public_repos&color=0EA5E9&style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN%20TO-Platform%20Engineering%20%C2%B7%20SRE%20%C2%B7%20DevOps%20%C2%B7%20DevSecOps%20Roles-0EA5E9?style=for-the-badge" />
 
 </div>
 
@@ -48,7 +48,7 @@ Every project in this profile was built to answer a specific question: not "can 
 
 | Metric | Value |
 |---|---|
-| Public repositories | 39 |
+| Public repositories | 37 |
 | Flagship hands-on projects | 6 (Terraform, Kubernetes, Jenkins/AWS, Prometheus, Ansible, ECR) |
 | Certifications | 2 — see [Certifications](#certifications) |
 | Core tools practiced | AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana |
@@ -201,21 +201,13 @@ Built an automated delivery pipeline connecting source control to AWS deployment
 <div align="center">
 
 <a href="https://github.com/Chukwuemeka-Peter-Eze/Chukwuemeka-Peter-Eze/blob/main/assets/certificates/techworld-with-nana-devops-bootcamp.png">
-  <img src="https://img.shields.io/badge/TechWorld%20with%20Nana-DevOps%20Bootcamp%20Certificate-38BDF8?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/TechWorld%20with%20Nana-DevOps%20Bootcamp%20Certificate-0EA5E9?style=for-the-badge&logo=googleclassroom&logoColor=white" />
 </a>
 <a href="https://github.com/Chukwuemeka-Peter-Eze/Chukwuemeka-Peter-Eze/blob/main/assets/certificates/digital-witch-cloud-security-devops.png">
-  <img src="https://img.shields.io/badge/Digital%20Witch%20Support%20Community-Cloud%20Security%20%26%20DevOps%20Engineer-0369a1?style=for-the-badge&logo=cloudsmith&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Witch%20Support%20Community-Cloud%20Security%20%26%20DevOps%20Engineer-0EA5E9?style=for-the-badge&logo=cloudsmith&logoColor=white" />
 </a>
 
 </div>
-
-<!--
-Additional certifications in progress — uncomment and update once earned:
-<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-In%20Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/HashiCorp%20Terraform%20Associate-In%20Progress-000000?style=for-the-badge&logo=terraform&logoColor=white" />
--->
-
 
 ---
 
@@ -256,12 +248,12 @@ I'm building toward becoming the kind of engineer trusted with infrastructure th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chukwuemeka-Peter-Eze&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwuemeka-Peter-Eze&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chukwuemeka-Peter-Eze&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&icon_color=0EA5E9&title_color=0EA5E9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwuemeka-Peter-Eze&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=0EA5E9" height="165" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Chukwuemeka-Peter-Eze&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=Chukwuemeka-Peter-Eze&hide_border=true&theme=transparent&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" />
 
 <img src="https://raw.githubusercontent.com/Chukwuemeka-Peter-Eze/Chukwuemeka-Peter-Eze/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
 
@@ -276,19 +268,19 @@ I'm building toward becoming the kind of engineer trusted with infrastructure th
 If you're building something worth being obsessive about the infrastructure for, I'd like to hear about it.
 
 <a href="mailto:Chukwuemekapetereze@proton.me">
-  <img src="https://img.shields.io/badge/Email-Chukwuemekapetereze%40proton.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Chukwuemekapetereze%40proton.me-0EA5E9?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/chukwuemekapetereze/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://chukwuemekapetereze.online/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Site-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-View%20Site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://github.com/Chukwuemeka-Peter-Eze">
-  <img src="https://img.shields.io/badge/GitHub-All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-All%20Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-📍 Nigeria: open to remote and relocation opportunities
+📍 Nigeria — open to remote and relocation opportunities
 
 </div>
 
