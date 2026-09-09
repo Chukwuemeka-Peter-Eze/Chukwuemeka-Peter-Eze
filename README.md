@@ -248,12 +248,12 @@ I'm building toward becoming the kind of engineer trusted with infrastructure th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chukwuemeka-Peter-Eze&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&icon_color=0EA5E9&title_color=0EA5E9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwuemeka-Peter-Eze&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=0EA5E9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chukwuemeka-Peter-Eze&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwuemeka-Peter-Eze&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Chukwuemeka-Peter-Eze&hide_border=true&theme=transparent&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" />
+<img src="https://streak-stats.demolab.com?user=Chukwuemeka-Peter-Eze&hide_border=true&theme=transparent" />
 
 <img src="https://raw.githubusercontent.com/Chukwuemeka-Peter-Eze/Chukwuemeka-Peter-Eze/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
 
