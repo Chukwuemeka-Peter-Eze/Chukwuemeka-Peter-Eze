@@ -12,8 +12,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Chukwuemeka-Peter-Eze&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Chukwuemeka-Peter-Eze?label=FOLLOWERS&style=for-the-badge&color=0369a1" />
-<img src="https://img.shields.io/github/repositories/Chukwuemeka-Peter-Eze?type=public&label=REPOSITORIES&style=for-the-badge&color=0284c7" />
-<img src="https://img.shields.io/badge/OPEN%20TO-Junior%20%2F%20Associate%20Cloud%20%26%20DevOps%20Roles-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChukwuemeka-Peter-Eze&label=Public%20Repositories&query=%24.public_repos&color=0284c7&style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN%20TO-Platform%20Engineering%20%C2%B7%20SRE%20%C2%B7%20DevOps%20%C2%B7%20DevSecOps%20Roles-22c55e?style=for-the-badge" />
 
 </div>
 
@@ -48,7 +48,7 @@ Every project in this profile was built to answer a specific question: not "can 
 
 | Metric | Value |
 |---|---|
-| Public repositories | 37 |
+| Public repositories | 39 |
 | Flagship hands-on projects | 6 (Terraform, Kubernetes, Jenkins/AWS, Prometheus, Ansible, ECR) |
 | Certifications | 2 — see [Certifications](#certifications) |
 | Core tools practiced | AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana |
@@ -200,8 +200,12 @@ Built an automated delivery pipeline connecting source control to AWS deployment
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TechWorld%20with%20Nana-DevOps%20Bootcamp%20Certificate-38BDF8?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-<img src="https://img.shields.io/badge/Digital%20Witch%20Support%20Community-Cloud%20Security%20%26%20DevOps%20Engineer-0369a1?style=for-the-badge&logo=cloudsmith&logoColor=white" />
+<a href="https://github.com/Chukwuemeka-Peter-Eze/Chukwuemeka-Peter-Eze/blob/main/assets/certificates/techworld-with-nana-devops-bootcamp.png">
+  <img src="https://img.shields.io/badge/TechWorld%20with%20Nana-DevOps%20Bootcamp%20Certificate-38BDF8?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+</a>
+<a href="https://github.com/Chukwuemeka-Peter-Eze/Chukwuemeka-Peter-Eze/blob/main/assets/certificates/digital-witch-cloud-security-devops.png">
+  <img src="https://img.shields.io/badge/Digital%20Witch%20Support%20Community-Cloud%20Security%20%26%20DevOps%20Engineer-0369a1?style=for-the-badge&logo=cloudsmith&logoColor=white" />
+</a>
 
 </div>
 
@@ -284,7 +288,7 @@ If you're building something worth being obsessive about the infrastructure for,
   <img src="https://img.shields.io/badge/GitHub-All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-📍 Nigeria - open to remote and relocation opportunities
+📍 Nigeria: open to remote and relocation opportunities
 
 </div>
 
