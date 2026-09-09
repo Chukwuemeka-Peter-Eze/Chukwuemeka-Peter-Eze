@@ -480,9 +480,9 @@ to:
 
 **“I can design and operate a system using this tool.”**
 
-
-<!--
 ---
+<!--
+
 # 📊 GITHUB ACTIVITY
 
 <div align="center">
