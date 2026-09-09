@@ -19,7 +19,7 @@
 
 <div align="center">
 
-**[About](#about)** · **[Philosophy](#engineering-philosophy)** · **[Portfolio](#portfolio-snapshot)** · **[Projects](#featured-work)** · **[Stack](#tech-stack)** · **[Certifications](#certifications)** · **[Vision](#where-im-headed)** · **[Connect](#connect)**
+**[About](#about)** · **[Philosophy](#engineering-philosophy)** · **[Portfolio](#portfolio-snapshot)** · **[Projects](#selected-case-studies)** · **[Stack](#tech-stack)** · **[Certifications](#certifications)** · **[Vision](#where-im-headed)** · **[Connect](#connect)**
 
 </div>
 
@@ -88,12 +88,99 @@ flowchart LR
 
 ---
 
-## Featured Work
+## Selected Case Studies
 
-| **[Terraform Complete CI/CD](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)**<br>Version-controlled infrastructure provisioning replacing manual environment setup with a repeatable, auditable pipeline from commit to deployment. | **[Kubernetes Microservices](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)**<br>Multi-service application on Kubernetes: Services, ConfigMaps, Secrets, and StatefulSets, with Helm-managed releases. |
-| --- | --- |
-| **[AWS + Jenkins CI/CD Pipeline](https://github.com/Chukwuemeka-Peter-Eze/Aws-jenkins-cicd-pipeline)**<br>Automated delivery pipeline connecting source control to AWS deployment targets, replacing manual release steps. | **[Prometheus Monitoring Stack](https://github.com/Chukwuemeka-Peter-Eze/Prometheus-monitoring-stack)**<br>Metrics, alerting, and operational visibility for running infrastructure. |
-| **[Ansible + Terraform Integration](https://github.com/Chukwuemeka-Peter-Eze/Ansible-terraform-integration)**<br>Infrastructure provisioning paired with configuration automation. | **[AWS ECR + Docker Registry](https://github.com/Chukwuemeka-Peter-Eze/Aws-ecr-docker-registry)**<br>Container image management and cloud-native workflows.
+**Terraform Complete CI/CD**
+Provisioned and version-controlled infrastructure end-to-end, replacing manual environment setup with a repeatable, auditable pipeline from commit to deployment.
+📎 [View repository](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)
+
+**Kubernetes Microservices**
+Built and deployed a multi-service application on Kubernetes (Services, ConfigMaps, Secrets, and StatefulSets) with Helm-managed releases, modeled on production patterns.
+📎 [View repository](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)
+
+**AWS + Jenkins CI/CD Pipeline**
+Built an automated delivery pipeline connecting source control to AWS deployment targets, replacing manual release steps with a Jenkins-driven workflow.
+📎 [View repository](https://github.com/Chukwuemeka-Peter-Eze/Aws-jenkins-cicd-pipeline)
+
+---
+
+## More Projects
+
+<div align="center">
+
+| Project | Focus |
+|---|---|
+| [**Prometheus Monitoring Stack**](https://github.com/Chukwuemeka-Peter-Eze/Prometheus-monitoring-stack) | Metrics, alerting & operational visibility |
+| [**Ansible + Terraform Integration**](https://github.com/Chukwuemeka-Peter-Eze/Ansible-terraform-integration) | Provisioning + configuration automation |
+| [**AWS ECR + Docker Registry**](https://github.com/Chukwuemeka-Peter-Eze/Aws-ecr-docker-registry) | Container image management & cloud-native workflows |
+
+</div>
+
+---
+
+## Technical Portfolio
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**☁️ Cloud**
+- EC2 deployments
+- ECR container registry
+- IAM configuration
+- AWS CLI automation
+- Linux cloud administration
+
+</td>
+<td valign="top" width="33%">
+
+**🐳 Containers**
+- Docker images & volumes
+- Docker networking & Compose
+- Multi-container apps
+- Container registries
+
+</td>
+<td valign="top" width="33%">
+
+**☸️ Kubernetes**
+- Deployments & Services
+- ConfigMaps & Secrets
+- StatefulSets
+- Helm charts
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**🔄 CI/CD**
+- Jenkins pipelines & shared libraries
+- GitHub Actions
+- Artifact management
+- Deployment automation
+
+</td>
+<td valign="top" width="33%">
+
+**🏗️ Infrastructure Automation**
+- Terraform & CloudFormation
+- Ansible
+- Configuration management
+- AWS automation (Python/Boto3)
+
+</td>
+<td valign="top" width="33%">
+
+**📊 Observability**
+- Prometheus & Grafana
+- Alerting
+- Infrastructure & app metrics
+- Operational dashboards
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -101,7 +188,9 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,githubactions,linux,bash,python,prometheus,grafana,git,github,nodejs&perline=8" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes" /><br/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,linux,bash,python" /><br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,nodejs" />
 
 </div>
 
