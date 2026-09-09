@@ -27,7 +27,7 @@
 
 ## About
 
-I build production-style cloud infrastructure — provisioning, deployment, security, and observability — as complete, independently designed systems rather than isolated exercises. My focus sits at the intersection of:
+I build production-style cloud infrastructure (provisioning, deployment, security, and observability) as complete, independently designed systems rather than isolated exercises. My focus sits at the intersection of:
 
 **Cloud Infrastructure → Infrastructure as Code → Containers → Kubernetes → CI/CD → Observability → DevSecOps**
 
@@ -50,7 +50,7 @@ Every project in this profile was built to answer a specific question: not "can 
 |---|---|
 | Public repositories | 37 |
 | Flagship hands-on projects | 6 (Terraform, Kubernetes, Jenkins/AWS, Prometheus, Ansible, ECR) |
-| Certifications | 2 — see [Certifications](#certifications) |
+| Certifications | 2 (see [Certifications](#certifications)) |
 | Core tools practiced | AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana |
 | Focus | Independently designed, production-style builds across the full DevOps toolchain |
 
@@ -95,7 +95,7 @@ Provisioned and version-controlled infrastructure end-to-end, replacing manual e
 📎 [View repository](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)
 
 **Kubernetes Microservices**
-Built and deployed a multi-service application on Kubernetes — services, ConfigMaps, Secrets, and StatefulSets — with Helm-managed releases, modeled on production patterns.
+Built and deployed a multi-service application on Kubernetes (Services, ConfigMaps, Secrets, and StatefulSets) with Helm-managed releases, modeled on production patterns.
 📎 [View repository](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)
 
 **AWS + Jenkins CI/CD Pipeline**
@@ -213,7 +213,7 @@ Built an automated delivery pipeline connecting source control to AWS deployment
 
 ## Security Mindset
 
-I approach infrastructure with a **security-by-design** philosophy — security is engineered in from the start, not layered on afterward.
+I approach infrastructure with a **security-by-design** philosophy: security is engineered in from the start, not layered on afterward.
 
 ```mermaid
 flowchart LR
@@ -240,18 +240,13 @@ Moving from isolated tool demonstrations toward **larger, integrated, production
 
 ## Where I'm Headed
 
-I'm building toward becoming the kind of engineer trusted with infrastructure that global-scale products depend on — where every deployment is boring, every failure is observed before it's felt, and security is invisible because it was never optional. Getting there means pairing what I've already built with real production stakes, real teams, and real consequences. That's the environment I'm looking for next.
+I'm building toward becoming the kind of engineer trusted with infrastructure that global-scale products depend on, where every deployment is boring, every failure is observed before it's felt, and security is invisible because it was never optional. Getting there means pairing what I've already built with real production stakes, real teams, and real consequences. That's the environment I'm looking for next.
 
 ---
 
 ## Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chukwuemeka-Peter-Eze&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwuemeka-Peter-Eze&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Chukwuemeka-Peter-Eze&hide_border=true&theme=transparent" />
 
@@ -280,7 +275,7 @@ If you're building something worth being obsessive about the infrastructure for,
   <img src="https://img.shields.io/badge/GitHub-All%20Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-📍 Nigeria — open to remote and relocation opportunities
+📍 Nigeria. Open to remote and relocation opportunities
 
 </div>
 
