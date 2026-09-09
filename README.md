@@ -504,7 +504,7 @@ to:
 </div>
 
 ---
-
+<!--
 # 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
@@ -514,6 +514,7 @@ to:
 </div>
 
 ---
+-->
 
 # 🏆 GITHUB ACHIEVEMENTS
 
