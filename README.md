@@ -48,7 +48,7 @@ Every project in this profile was built to answer a specific question: not "can 
 
 | Metric | Value |
 |---|---|
-| Public repositories | 37 |
+| Public repositories | 39 |
 | Flagship hands-on projects | 6 (Terraform, Kubernetes, Jenkins/AWS, Prometheus, Ansible, ECR) |
 | Certifications | 2 (see [Certifications](#certifications)) |
 | Core tools practiced | AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana |
