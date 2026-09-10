@@ -1,0 +1,27 @@
+name: Refresh Contribution Stats
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # runs every 3 hours
+  workflow_dispatch: {}       # adds a manual "Run workflow" button for on-demand refresh
+
+jobs:
+  refresh:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bust cache on streak-stats badge
+        run: |
+          TIMESTAMP=$(date +%s)
+          sed -i -E "s#(streak-stats\.demolab\.com\?user=Chukwuemeka-Peter-Eze[^\"]*?)(&cache_bust=[0-9]*)?\"#\1\&cache_bust=${TIMESTAMP}\"#" README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: refresh contribution stats badge"
+          git push

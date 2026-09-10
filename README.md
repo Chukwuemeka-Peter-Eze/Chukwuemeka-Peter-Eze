@@ -159,7 +159,7 @@ I want to work somewhere the infrastructure I build actually gets used under rea
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Chukwuemeka-Peter-Eze&count_private=true&timezone=Africa/Lagos&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=Chukwuemeka-Peter-Eze&count_private=true&timezone=Africa/Lagos&hide_border=true&theme=transparent&cache_bust=0" />
 
 <img src="https://raw.githubusercontent.com/Chukwuemeka-Peter-Eze/Chukwuemeka-Peter-Eze/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
 
