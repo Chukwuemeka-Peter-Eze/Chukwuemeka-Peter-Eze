@@ -76,7 +76,7 @@ flowchart LR
 ## Featured Work
 
 | **[Terraform Complete CI/CD](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)**<br>Version-controlled infrastructure provisioning replacing manual environment setup with a repeatable, auditable pipeline from commit to deployment. | **[Kubernetes Microservices](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)**<br>Multi-service application on Kubernetes: Services, ConfigMaps, Secrets, and StatefulSets, with Helm-managed releases. |
-| --- | --- |
+|:---|:---|
 | **[AWS + Jenkins CI/CD Pipeline](https://github.com/Chukwuemeka-Peter-Eze/Aws-jenkins-cicd-pipeline)**<br>Automated delivery pipeline connecting source control to AWS deployment targets, replacing manual release steps. | **[Prometheus Monitoring Stack](https://github.com/Chukwuemeka-Peter-Eze/Prometheus-monitoring-stack)**<br>Metrics, alerting, and operational visibility for running infrastructure. |
 | **[Ansible + Terraform Integration](https://github.com/Chukwuemeka-Peter-Eze/Ansible-terraform-integration)**<br>Infrastructure provisioning paired with configuration automation. | **[AWS ECR + Docker Registry](https://github.com/Chukwuemeka-Peter-Eze/Aws-ecr-docker-registry)**<br>Container image management and cloud-native workflows. |
 
