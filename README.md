@@ -27,18 +27,18 @@
 
 ## About
 
-I build production-style cloud infrastructure (provisioning, deployment, security, and observability) as complete, independently designed systems rather than isolated exercises. My focus sits at the intersection of:
+I build production-style cloud infrastructure — provisioning, deployment, security, and observability — as complete, independently designed systems rather than isolated exercises.
 
 **Cloud Infrastructure → Infrastructure as Code → Containers → Kubernetes → CI/CD → Observability → DevSecOps**
 
-Every project in this profile was built to answer a specific question: not "can I use this tool," but "what does it take to run this safely, repeatably, and without me in the room." That's the standard I hold my own work to.
+Every project here answers one question: not "can I use this tool," but "what does it take to run this safely, repeatably, and without me in the room."
 
 ---
 
 ## Engineering Philosophy
 
 - **Automation is a trust exercise.** If a deployment only works when I'm watching it, it isn't finished.
-- **Security is a design constraint, not a checklist item added at the end.**
+- **Security is a design constraint,** not a checklist item added at the end.
 - **Infrastructure should be disposable.** If I can't destroy and rebuild an environment from code alone, it isn't really "as code" yet.
 - **Observability comes before scale.** I'd rather know a system is struggling than assume it isn't.
 
@@ -48,24 +48,9 @@ Every project in this profile was built to answer a specific question: not "can 
 
 | Metric | Value |
 |---|---|
-| Public repositories | 39 |
 | Flagship hands-on projects | 6 (Terraform, Kubernetes, Jenkins/AWS, Prometheus, Ansible, ECR) |
 | Certifications | 2 (see [Certifications](#certifications)) |
-| Core tools practiced | AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana |
-| Focus | Independently designed, production-style builds across the full DevOps toolchain |
-
----
-
-## Focus Areas
-
-| Domain | Stack | Description |
-|---|---|---|
-| ☁️ **Cloud Engineering** | AWS (EC2, ECR, IAM, CloudWatch) | Secure, repeatable cloud environments provisioned with operational awareness |
-| 🏗️ **Infrastructure as Code** | Terraform, CloudFormation | Version-controlled, reproducible infrastructure over manual configuration |
-| ☸️ **Containers & Orchestration** | Docker, Kubernetes, Helm | Containerized workloads and production-grade Kubernetes operations |
-| 🔄 **CI/CD & Delivery** | Jenkins, GitHub Actions | Automated pipelines from source → build → validate → deploy |
-| 🔐 **DevSecOps** | IAM, Secrets Mgmt, Scanning | Security embedded into the engineering workflow, not bolted on after |
-| 📊 **Observability** | Prometheus, Grafana, CloudWatch | Metrics and monitoring so infrastructure never runs as a black box |
+| Core tools practiced | AWS · Terraform · Docker · Kubernetes · Jenkins · Ansible · Prometheus · Grafana |
 
 ---
 
@@ -93,7 +78,7 @@ flowchart LR
 | **[Terraform Complete CI/CD](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)**<br>Version-controlled infrastructure provisioning replacing manual environment setup with a repeatable, auditable pipeline from commit to deployment. | **[Kubernetes Microservices](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)**<br>Multi-service application on Kubernetes: Services, ConfigMaps, Secrets, and StatefulSets, with Helm-managed releases. |
 | --- | --- |
 | **[AWS + Jenkins CI/CD Pipeline](https://github.com/Chukwuemeka-Peter-Eze/Aws-jenkins-cicd-pipeline)**<br>Automated delivery pipeline connecting source control to AWS deployment targets, replacing manual release steps. | **[Prometheus Monitoring Stack](https://github.com/Chukwuemeka-Peter-Eze/Prometheus-monitoring-stack)**<br>Metrics, alerting, and operational visibility for running infrastructure. |
-| **[Ansible + Terraform Integration](https://github.com/Chukwuemeka-Peter-Eze/Ansible-terraform-integration)**<br>Infrastructure provisioning paired with configuration automation. | **[AWS ECR + Docker Registry](https://github.com/Chukwuemeka-Peter-Eze/Aws-ecr-docker-registry)**<br>Container image management and cloud-native workflows.
+| **[Ansible + Terraform Integration](https://github.com/Chukwuemeka-Peter-Eze/Ansible-terraform-integration)**<br>Infrastructure provisioning paired with configuration automation. | **[AWS ECR + Docker Registry](https://github.com/Chukwuemeka-Peter-Eze/Aws-ecr-docker-registry)**<br>Container image management and cloud-native workflows. |
 
 ---
 
@@ -151,7 +136,7 @@ Moving from isolated tool demonstrations toward **larger, integrated, production
 
 ## Where I'm Headed
 
-I'm building toward becoming the kind of engineer trusted with infrastructure that global-scale products depend on, where every deployment is boring, every failure is observed before it's felt, and security is invisible because it was never optional. Getting there means pairing what I've already built with real production stakes, real teams, and real consequences. That's the environment I'm looking for next.
+I want to work somewhere the infrastructure I build actually gets used under real load — where a bad deploy has consequences, so a good deploy has to be boring by design. My next step is trading solo projects for a team, real production stakes, and systems other people depend on.
 
 ---
 
@@ -159,7 +144,7 @@ I'm building toward becoming the kind of engineer trusted with infrastructure th
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Chukwuemeka-Peter-Eze&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=Chukwuemeka-Peter-Eze&count_private=true&timezone=Africa/Lagos&hide_border=true&theme=transparent" />
 
 <img src="https://raw.githubusercontent.com/Chukwuemeka-Peter-Eze/Chukwuemeka-Peter-Eze/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
 
