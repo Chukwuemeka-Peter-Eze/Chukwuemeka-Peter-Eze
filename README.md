@@ -27,7 +27,7 @@
 
 ## About
 
-I build production-style cloud infrastructure — provisioning, deployment, security, and observability — as complete, independently designed systems rather than isolated exercises.
+I build production-style cloud infrastructure (provisioning, deployment, security, and observability) as complete, independently designed systems rather than isolated exercises.
 
 **Cloud Infrastructure → Infrastructure as Code → Containers → Kubernetes → CI/CD → Observability → DevSecOps**
 
@@ -136,7 +136,7 @@ Moving from isolated tool demonstrations toward **larger, integrated, production
 
 ## Where I'm Headed
 
-I want to work somewhere the infrastructure I build actually gets used under real load — where a bad deploy has consequences, so a good deploy has to be boring by design. My next step is trading solo projects for a team, real production stakes, and systems other people depend on.
+I want to work somewhere the infrastructure I build actually gets used under real load, where a bad deploy has consequences, so a good deploy has to be boring by design. My next step is trading solo projects for a team, real production stakes, and systems other people depend on.
 
 ---
 
