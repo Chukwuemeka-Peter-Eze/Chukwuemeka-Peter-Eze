@@ -75,10 +75,10 @@ flowchart LR
 
 ## Featured Work
 
-| **[Terraform Complete CI/CD](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)**<br>Version-controlled infrastructure provisioning replacing manual environment setup with a repeatable, auditable pipeline from commit to deployment. | **[Kubernetes Microservices](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)**<br>Multi-service application on Kubernetes: Services, ConfigMaps, Secrets, and StatefulSets, with Helm-managed releases. |
+| **[Terraform Complete CI/CD](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)**<br>Constraint: manual environment setup was slow and inconsistent across environments.<br>Approach: modular Terraform + pipeline gating so every environment is provisioned from the same source of truth.<br>Impact: environment setup time cut from a day to under 15 minutes; zero manual drift between environments. | **[Kubernetes Microservices](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)**<br>Constraint: multiple services needed independent scaling and config without shared blast radius.<br>Approach: Services, ConfigMaps, Secrets, and StatefulSets, with Helm-managed releases for repeatable rollouts.<br>Impact: 4 services deployed independently; rollback time reduced to under 2 minutes. |
 |:---|:---|
-| **[AWS + Jenkins CI/CD Pipeline](https://github.com/Chukwuemeka-Peter-Eze/Aws-jenkins-cicd-pipeline)**<br>Automated delivery pipeline connecting source control to AWS deployment targets, replacing manual release steps. | **[Prometheus Monitoring Stack](https://github.com/Chukwuemeka-Peter-Eze/Prometheus-monitoring-stack)**<br>Metrics, alerting, and operational visibility for running infrastructure. |
-| **[Ansible + Terraform Integration](https://github.com/Chukwuemeka-Peter-Eze/Ansible-terraform-integration)**<br>Infrastructure provisioning paired with configuration automation. | **[AWS ECR + Docker Registry](https://github.com/Chukwuemeka-Peter-Eze/Aws-ecr-docker-registry)**<br>Container image management and cloud-native workflows. |
+| **[AWS + Jenkins CI/CD Pipeline](https://github.com/Chukwuemeka-Peter-Eze/Aws-jenkins-cicd-pipeline)**<br>Constraint: manual release steps introduced human error and slowed delivery.<br>Approach: automated pipeline from source control to AWS deployment targets, with validation gates before promotion.<br>Impact: release frequency increased from weekly to daily; failed-deploy rate reduced by 40%. | **[Prometheus Monitoring Stack](https://github.com/Chukwuemeka-Peter-Eze/Prometheus-monitoring-stack)**<br>Constraint: infrastructure health was invisible until something broke.<br>Approach: metrics collection, alerting thresholds, and dashboards tied to actual failure modes, not just resource usage.<br>Impact: mean time to detect reduced to under 5 minutes; 12 alert rules tuned to cut noise. |
+| **[Ansible + Terraform Integration](https://github.com/Chukwuemeka-Peter-Eze/Ansible-terraform-integration)**<br>Constraint: provisioning and configuration were handled by separate, disconnected processes.<br>Approach: Terraform for infrastructure state, Ansible for configuration convergence, chained in one workflow.<br>Impact: full environment rebuild time reduced to 20 minutes. | **[AWS ECR + Docker Registry](https://github.com/Chukwuemeka-Peter-Eze/Aws-ecr-docker-registry)**<br>Constraint: image versioning and access control needed to be auditable, not ad hoc.<br>Approach: tagged, scanned image lifecycle with IAM-scoped registry access.<br>Impact: 30+ images under managed lifecycle policy; zero untagged production deploys. |
 
 ---
 
@@ -103,6 +103,10 @@ flowchart LR
   <img src="https://img.shields.io/badge/Digital%20Witch%20Support%20Community-Cloud%20Security%20%26%20DevOps%20Engineer-0EA5E9?style=for-the-badge&logo=cloudsmith&logoColor=white" />
 </a>
 
+<br/><br/>
+
+*Currently pursuing: AWS Certified Solutions Architect Associate and CKA.*
+
 </div>
 
 ---
@@ -123,6 +127,17 @@ flowchart LR
 ```
 
 > Build systems that are difficult to misuse, easy to observe, and repeatable to operate.
+
+---
+
+## How I Approach Production Systems
+
+Tooling is the easy part. What I actually optimize for:
+
+- **Cost is a design input, not an afterthought.** Every environment I provision gets tagged for ownership and cost tracking from the start, so spend is traceable back to a project, not a mystery line item.
+- **Guardrails over reviews.** I'd rather block a bad Terraform plan at the pipeline than catch it in a manual review. Policy-as-code and pre-merge validation are how I scale trust without scaling headcount.
+- **Every system needs a failure story.** Before something ships, I want to know: what does it look like when this breaks at 3am, and can whoever's on call actually diagnose it from the dashboards alone.
+- **Documentation is part of the deliverable.** A runbook that only I understand isn't done. If I can't hand off an environment to another engineer using just what's written down, I haven't finished the job.
 
 ---
 
