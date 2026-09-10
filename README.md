@@ -75,10 +75,10 @@ flowchart LR
 
 ## Featured Work
 
-| **[Terraform Complete CI/CD](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)**<br>![CONSTRAINT](https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square) manual environment setup was slow and inconsistent across environments.<br>![APPROACH](https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square) modular Terraform + pipeline gating so every environment is provisioned from the same source of truth.<br>![IMPACT](https://img.shields.io/badge/IMPACT-16a34a?style=flat-square) environment setup time cut from a day to under 15 minutes; zero manual drift between environments. | **[Kubernetes Microservices](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)**<br>![CONSTRAINT](https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square) multiple services needed independent scaling and config without shared blast radius.<br>![APPROACH](https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square) Services, ConfigMaps, Secrets, and StatefulSets, with Helm-managed releases for repeatable rollouts.<br>![IMPACT](https://img.shields.io/badge/IMPACT-16a34a?style=flat-square) 4 services deployed independently; rollback time reduced to under 2 minutes. |
+| **[Terraform Complete CI/CD](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)**<br><img src="https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square" height="14" valign="middle"/> manual environment setup was slow and inconsistent across environments.<br><img src="https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square" height="14" valign="middle"/> modular Terraform + pipeline gating so every environment is provisioned from the same source of truth.<br><img src="https://img.shields.io/badge/IMPACT-16a34a?style=flat-square" height="14" valign="middle"/> environment setup time cut from a day to under 15 minutes; zero manual drift between environments. | **[Kubernetes Microservices](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)**<br><img src="https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square" height="14" valign="middle"/> multiple services needed independent scaling and config without shared blast radius.<br><img src="https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square" height="14" valign="middle"/> Services, ConfigMaps, Secrets, and StatefulSets, with Helm-managed releases for repeatable rollouts.<br><img src="https://img.shields.io/badge/IMPACT-16a34a?style=flat-square" height="14" valign="middle"/> 4 services deployed independently; rollback time reduced to under 2 minutes. |
 |:---|:---|
-| **[AWS + Jenkins CI/CD Pipeline](https://github.com/Chukwuemeka-Peter-Eze/Aws-jenkins-cicd-pipeline)**<br>![CONSTRAINT](https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square) manual release steps introduced human error and slowed delivery.<br>![APPROACH](https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square) automated pipeline from source control to AWS deployment targets, with validation gates before promotion.<br>![IMPACT](https://img.shields.io/badge/IMPACT-16a34a?style=flat-square) release frequency increased from weekly to daily; failed-deploy rate reduced by 40%. | **[Prometheus Monitoring Stack](https://github.com/Chukwuemeka-Peter-Eze/Prometheus-monitoring-stack)**<br>![CONSTRAINT](https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square) infrastructure health was invisible until something broke.<br>![APPROACH](https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square) metrics collection, alerting thresholds, and dashboards tied to actual failure modes, not just resource usage.<br>![IMPACT](https://img.shields.io/badge/IMPACT-16a34a?style=flat-square) mean time to detect reduced to under 5 minutes; 12 alert rules tuned to cut noise. |
-| **[Ansible + Terraform Integration](https://github.com/Chukwuemeka-Peter-Eze/Ansible-terraform-integration)**<br>![CONSTRAINT](https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square) provisioning and configuration were handled by separate, disconnected processes.<br>![APPROACH](https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square) Terraform for infrastructure state, Ansible for configuration convergence, chained in one workflow.<br>![IMPACT](https://img.shields.io/badge/IMPACT-16a34a?style=flat-square) full environment rebuild time reduced to 20 minutes. | **[AWS ECR + Docker Registry](https://github.com/Chukwuemeka-Peter-Eze/Aws-ecr-docker-registry)**<br>![CONSTRAINT](https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square) image versioning and access control needed to be auditable, not ad hoc.<br>![APPROACH](https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square) tagged, scanned image lifecycle with IAM-scoped registry access.<br>![IMPACT](https://img.shields.io/badge/IMPACT-16a34a?style=flat-square) 30+ images under managed lifecycle policy; zero untagged production deploys. |
+| **[AWS + Jenkins CI/CD Pipeline](https://github.com/Chukwuemeka-Peter-Eze/Aws-jenkins-cicd-pipeline)**<br><img src="https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square" height="14" valign="middle"/> manual release steps introduced human error and slowed delivery.<br><img src="https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square" height="14" valign="middle"/> automated pipeline from source control to AWS deployment targets, with validation gates before promotion.<br><img src="https://img.shields.io/badge/IMPACT-16a34a?style=flat-square" height="14" valign="middle"/> release frequency increased from weekly to daily; failed-deploy rate reduced by 40%. | **[Prometheus Monitoring Stack](https://github.com/Chukwuemeka-Peter-Eze/Prometheus-monitoring-stack)**<br><img src="https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square" height="14" valign="middle"/> infrastructure health was invisible until something broke.<br><img src="https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square" height="14" valign="middle"/> metrics collection, alerting thresholds, and dashboards tied to actual failure modes, not just resource usage.<br><img src="https://img.shields.io/badge/IMPACT-16a34a?style=flat-square" height="14" valign="middle"/> mean time to detect reduced to under 5 minutes; 12 alert rules tuned to cut noise. |
+| **[Ansible + Terraform Integration](https://github.com/Chukwuemeka-Peter-Eze/Ansible-terraform-integration)**<br><img src="https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square" height="14" valign="middle"/> provisioning and configuration were handled by separate, disconnected processes.<br><img src="https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square" height="14" valign="middle"/> Terraform for infrastructure state, Ansible for configuration convergence, chained in one workflow.<br><img src="https://img.shields.io/badge/IMPACT-16a34a?style=flat-square" height="14" valign="middle"/> full environment rebuild time reduced to 20 minutes. | **[AWS ECR + Docker Registry](https://github.com/Chukwuemeka-Peter-Eze/Aws-ecr-docker-registry)**<br><img src="https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square" height="14" valign="middle"/> image versioning and access control needed to be auditable, not ad hoc.<br><img src="https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square" height="14" valign="middle"/> tagged, scanned image lifecycle with IAM-scoped registry access.<br><img src="https://img.shields.io/badge/IMPACT-16a34a?style=flat-square" height="14" valign="middle"/> 30+ images under managed lifecycle policy; zero untagged production deploys. |
 
 ---
 
@@ -173,18 +173,31 @@ I want to work somewhere the infrastructure I build actually gets used under rea
 
 If you're building something worth being obsessive about the infrastructure for, I'd like to hear about it.
 
+<br/>
+
 <a href="mailto:Chukwuemekapetereze@proton.me">
-  <img src="https://img.shields.io/badge/Email-Chukwuemekapetereze%40proton.me-0EA5E9?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/chukwuemekapetereze/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://chukwuemekapetereze.online/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Chukwuemeka-Peter-Eze">
-  <img src="https://img.shields.io/badge/GitHub-All%20Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/>
+
+<a href="https://chukwuemekapetereze.online/">
+  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://medium.com/@ChukwuemekaPeterEze">
+  <img src="https://img.shields.io/badge/Medium-0EA5E9?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://lumpy-bubble-7b0.notion.site/My-DevOps-Knowledge-Base-39846a96f974806792e0cd92dd6bc1e8?source=copy_link">
+  <img src="https://img.shields.io/badge/Knowledge%20Base-0EA5E9?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+
+<br/><br/>
 
 📍 Nigeria. Open to global, remote and relocation opportunities
 
