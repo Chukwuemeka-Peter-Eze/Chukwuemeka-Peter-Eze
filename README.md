@@ -186,7 +186,7 @@ If you're building something worth being obsessive about the infrastructure for,
   <img src="https://img.shields.io/badge/GitHub-All%20Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-📍 Nigeria. Open to remote and relocation opportunities
+📍 Nigeria. Open to global, remote and relocation opportunities
 
 </div>
 
