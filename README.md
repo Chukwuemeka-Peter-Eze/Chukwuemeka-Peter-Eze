@@ -72,7 +72,7 @@ flowchart LR
 **Operating loop:** Learn → Build → Break → Troubleshoot → Automate → Document → Improve
 
 ---
-
+<!--
 ## Featured Work
 
 | **[Terraform Complete CI/CD](https://github.com/Chukwuemeka-Peter-Eze/Terraform-complete-cicd)**<br><img src="https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square" height="14" valign="middle"/> manual environment setup was slow and inconsistent across environments.<br><img src="https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square" height="14" valign="middle"/> modular Terraform + pipeline gating so every environment is provisioned from the same source of truth.<br><img src="https://img.shields.io/badge/IMPACT-16a34a?style=flat-square" height="14" valign="middle"/> environment setup time cut from a day to under 15 minutes; zero manual drift between environments. | **[Kubernetes Microservices](https://github.com/Chukwuemeka-Peter-Eze/Kubernetes-microservices-production)**<br><img src="https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square" height="14" valign="middle"/> multiple services needed independent scaling and config without shared blast radius.<br><img src="https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square" height="14" valign="middle"/> Services, ConfigMaps, Secrets, and StatefulSets, with Helm-managed releases for repeatable rollouts.<br><img src="https://img.shields.io/badge/IMPACT-16a34a?style=flat-square" height="14" valign="middle"/> 4 services deployed independently; rollback time reduced to under 2 minutes. |
@@ -81,7 +81,7 @@ flowchart LR
 | **[Ansible + Terraform Integration](https://github.com/Chukwuemeka-Peter-Eze/Ansible-terraform-integration)**<br><img src="https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square" height="14" valign="middle"/> provisioning and configuration were handled by separate, disconnected processes.<br><img src="https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square" height="14" valign="middle"/> Terraform for infrastructure state, Ansible for configuration convergence, chained in one workflow.<br><img src="https://img.shields.io/badge/IMPACT-16a34a?style=flat-square" height="14" valign="middle"/> full environment rebuild time reduced to 20 minutes. | **[AWS ECR + Docker Registry](https://github.com/Chukwuemeka-Peter-Eze/Aws-ecr-docker-registry)**<br><img src="https://img.shields.io/badge/CONSTRAINT-e11d48?style=flat-square" height="14" valign="middle"/> image versioning and access control needed to be auditable, not ad hoc.<br><img src="https://img.shields.io/badge/APPROACH-0ea5e9?style=flat-square" height="14" valign="middle"/> tagged, scanned image lifecycle with IAM-scoped registry access.<br><img src="https://img.shields.io/badge/IMPACT-16a34a?style=flat-square" height="14" valign="middle"/> 30+ images under managed lifecycle policy; zero untagged production deploys. |
 
 ---
-
+-->
 ## Tech Stack
 
 <div align="center">
